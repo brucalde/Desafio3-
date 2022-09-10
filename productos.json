@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "product": "calculadora",
+        "price": 123.1
+    },
+    {
+        "id": 2,
+        "product": "lapiz",
+        "price": 50
+    },
+    {
+        "id": 3,
+        "product": "cuaderno",
+        "price": 100
+    },
+    {
+        "id": 4,
+        "product": "mouse",
+        "price": 500
+    },
+    {
+        "id": 5,
+        "product": "mouse",
+        "price": 500
+    }
+]
